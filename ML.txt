@@ -1,2 +1,0 @@
-ML is a part of Data Science.
-Machine lesrning (ML) focuses on the using data and algorithms to enable AI to imitate the way that humans learn, gradually imporving its accuracy.
